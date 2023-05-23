@@ -66,6 +66,7 @@ df.isnull().sum()
 
 ![image](https://github.com/Rajasree-321/Ex-09-Data-Visualization_1/assets/96918911/dfeac11a-8670-4861-9aa7-5c82f6f09a09)
 
+![image](https://github.com/Rajasree-321/Ex-09-Data-Visualization_1/assets/96918911/189c49a1-b1d8-43fc-bebd-7c17afb80b0c)
 
 
 # RESULT
